@@ -1,0 +1,1 @@
+This is  a sample java code to configure a property file and use it in code, by loading all properties at the time of loading the class.
